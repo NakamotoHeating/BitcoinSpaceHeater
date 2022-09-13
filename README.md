@@ -1,6 +1,6 @@
-# SilentBitcoinSpaceHeater
+# BitcoinSpaceHeater
 
-Files and build instructions for the #SilentBitcoinSpaceHeater see https://twitter.com/NakamotoHeating/ to learn more.
+Files and build instructions for the #BitcoinSpaceHeater see https://twitter.com/NakamotoHeating/ to learn more.
 
 ## Idea
 
