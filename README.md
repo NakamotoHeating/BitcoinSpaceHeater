@@ -13,10 +13,10 @@ Files and build instructions for the #SilentBitcoinSpaceHeater see https://twitt
 
 ## Injector Plates
 
-The injector plates are designed by [@Adrian_van_Wijk](https://twitter.com/Adrian_van_Wijk). And freely available under the `stl` Folder.
+The injector plates are designed by [@Adrian_van_Wijk](https://twitter.com/Adrian_van_Wijk). And freely available under the `stl` and `stp` Folder.
 We strongly suggest to print them with ABS, as PLA get malleable (glass transition temperature) at 60C/140F which could cause problems when the Oil gets to 60C+ temperatures.
 
-Both parts need support for the main structure, experience shows that the threads and pipe better are printed without support. For this there are `3mf` files attached that have the required support inhibitors and settings for an Ender 3V2 printer with ABS (modify to your needs).
+Experience shows that the threads and pipe of the bottom cover are better printed without support. For this there are `3mf` files attached that have the required support inhibitors and settings for an Ender 3V2 printer with ABS (modify to your needs).
 
 ## Partslist
 
