@@ -40,13 +40,13 @@ Experience shows that the threads and pipe of the bottom cover are better printe
 
 ## Tools list
 
-A. Tube cutter
-B. 5min Epoxy
-C. Soldering Iron & Solder
-D. Wire Stripper
-E. Screwdriver
-F. Nose plier
-G. Side cutting plier
-H. Two containers
-I. Heat Gun
-J. Brush
+A. Tube cutter  
+B. 5min Epoxy  
+C. Soldering Iron & Solder  
+D. Wire Stripper  
+E. Screwdriver  
+F. Nose plier  
+G. Side cutting plier  
+H. Two containers  
+I. Heat Gun  
+J. Brush  
