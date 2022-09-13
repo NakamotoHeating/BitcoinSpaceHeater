@@ -23,6 +23,8 @@ Experience shows that the threads and pipe of the bottom cover are better printe
 
 ## Parts list
 
+<img width="3740" alt="partslist-min" src="https://user-images.githubusercontent.com/750999/189916137-44d7d029-3dca-44b6-8f4a-4c71b9a8a128.png">
+
 1. Antminer S9
 2. Power Supply (we used Antminer APW3++)
 3. ABS 3D printed Top Cap
